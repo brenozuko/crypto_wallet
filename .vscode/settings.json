@@ -1,0 +1,5 @@
+{
+    "ruby.rubocop.configFilePath": "/home/aaron/Desktop/ror/crypto_wallet/.rubocop.yml",
+    "ruby.rubocop.executePath": "/home/aaron/.local/share/rtx/shims/",
+    "erb.erb-lint.executePath": "/home/aaron/.local/share/rtx/shims/"
+}
