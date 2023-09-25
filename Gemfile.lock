@@ -98,6 +98,7 @@ GEM
     globalid (1.1.0)
       activesupport (>= 5.0)
     html_tokenizer (0.0.7)
+    htmlbeautifier (1.4.2)
     i18n (1.14.1)
       concurrent-ruby (~> 1.0)
     io-like (0.3.1)
@@ -261,6 +262,7 @@ DEPENDENCIES
   chromedriver-helper
   coffee-rails (~> 4.2)
   erb_lint
+  htmlbeautifier
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
   puma (~> 3.11)

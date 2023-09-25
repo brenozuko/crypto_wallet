@@ -3,6 +3,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.7.0'
 
+gem 'htmlbeautifier'
 gem 'rubocop'
 gem 'erb_lint'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
