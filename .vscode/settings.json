@@ -1,6 +1,6 @@
 {
-    "ruby.rubocop.configFilePath": "/home/aaron/Desktop/ror/crypto_wallet/.rubocop.yml",
-    "ruby.rubocop.executePath": "/home/aaron/.local/share/rtx/shims/",
+    "ruby.rubocop.configFilePath": "/home/brenozuko/Desktop/ror/crypto_wallet/.rubocop_todo.yml",
+    "ruby.rubocop.executePath": "",
     "[erb]": {
         "editor.defaultFormatter": "aliariff.vscode-erb-beautify",
         "editor.formatOnSave": true
